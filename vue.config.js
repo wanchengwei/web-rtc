@@ -24,6 +24,7 @@ if (isProduction) {
   ]
 }
 
+
 module.exports = defineConfig({
   publicPath: '/web-rtc',
   transpileDependencies: true,

@@ -2,7 +2,7 @@
   <div class="main">
     <div class="control">
       <input v-model="telId" class="id-area" type="text" placeholder="请输入对方id">
-      <button class="btn-send" @click="reqCall">拨打</button>
+      <button class="btn-send" @click="reqCall">拨打sfdsf</button>
       <button class="btn-send" @click="recCall">接听</button>
       <button class="btn-cancel">挂断</button>
     </div>
