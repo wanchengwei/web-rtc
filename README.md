@@ -1,4 +1,4 @@
-# gis
+# web-rtc
 
 ## Project setup
 ```
